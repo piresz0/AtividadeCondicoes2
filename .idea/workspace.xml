@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dae9b5b1-ba90-410c-8a55-f5141c9bc2a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeCondicao2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ativ1_Verificação_de_Maioridade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade2_Classificação_de_Notas.java" afterDir="false" />
-    </list>
+    <list default="true" id="dae9b5b1-ba90-410c-8a55-f5141c9bc2a1" name="Changes" comment="oi" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/piresz0/AtividadeCondicoes2",
+    "accountId": "e6ef1969-76b8-4fed-a89d-3033ef5c4edf"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -41,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Ativ1_Verificação_de_Maioridade.executor": "Run",
+    "Application.Atividade2_Classificação_de_Notas.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -90,11 +88,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724927695145</updated>
-      <workItem from="1724927696167" duration="569000" />
+      <workItem from="1724927696167" duration="875000" />
     </task>
+    <task id="LOCAL-00001" summary="oi">
+      <option name="closed" value="true" />
+      <created>1724928534472</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724928534472</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="oi" />
+    <option name="LAST_COMMIT_MESSAGE" value="oi" />
   </component>
 </project>
